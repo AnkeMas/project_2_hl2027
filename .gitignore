@@ -1,0 +1,6 @@
+# Python virtual environment
+venv312/
+
+# Image and mask folders
+COMMON_images_masks/
+GROUP_images/
